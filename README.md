@@ -7,4 +7,4 @@
 #### Output: 
 
 <br/>
-<img src="https://user-images.githubusercontent.com/59869563/104625471-c8efda00-56ba-11eb-8d51-ca81425ecb91.png" width=80%> 
+<img src="https://user-images.githubusercontent.com/59869563/104625888-41569b00-56bb-11eb-96ad-89ec226e30e1.png" width=80%> 
