@@ -28,6 +28,7 @@ print("\n----Updated File1 Contents are:---- \n" + F1Content)
 for f2 in File2:
     F2Content = F2Content + f2
 print("\n----Updated File2 Contents are:----\n" + F2Content)
+
 File1.close()
 File2.close()
 #### Updated Files read and capture contents in respective string variables - END###
